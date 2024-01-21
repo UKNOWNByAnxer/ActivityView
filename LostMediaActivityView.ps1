@@ -38,16 +38,16 @@ Clear-Host
 
 Write-Host "";
 Write-Host "";
-Write-Host -ForegroundColor Red "                ██▓     ▒█████    ██████ ▄▄▄█████▓ ███▄ ▄███▓▓█████ ▓█████▄  ██▓ ▄▄▄   ";
-Write-Host -ForegroundColor Red "                 ▓██▒    ▒██▒  ██▒▒██    ▒ ▓  ██▒ ▓▒▓██▒▀█▀ ██▒▓█   ▀ ▒██▀ ██▌▓██▒▒████▄ ";
-Write-Host -ForegroundColor Red "                ▒██░    ▒██░  ██▒░ ▓██▄   ▒ ▓██░ ▒░▓██    ▓██░▒███   ░██   █▌▒██▒▒██  ▀█▄ ";
-Write-Host -ForegroundColor Red "                ▒██░    ▒██   ██░  ▒   ██▒░ ▓██▓ ░ ▒██    ▒██ ▒▓█  ▄ ░▓█▄   ▌░██░░██▄▄▄▄██";
-Write-Host -ForegroundColor Red "                ░██████▒░ ████▓▒░▒██████▒▒  ▒██▒ ░ ▒██▒   ░██▒░▒████▒░▒████▓ ░██░ ▓█   ▓██▒ ";
-Write-Host -ForegroundColor Red "                ░ ▒░▓  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░  ▒ ░░   ░ ▒░   ░  ░░░ ▒░ ░ ▒▒▓  ▒ ░▓   ▒▒   ▓▒█░                   "; 
-Write-Host -ForegroundColor Red "                ░ ░ ▒  ░  ░ ▒ ▒░ ░ ░▒  ░ ░    ░    ░  ░      ░ ░ ░  ░ ░ ▒  ▒  ▒ ░  ▒   ▒▒ ░            "; 
-Write-Host -ForegroundColor Red "                  ░ ░   ░ ░ ░ ▒  ░  ░  ░    ░      ░      ░      ░    ░ ░  ░  ▒ ░  ░   ▒              "; 
-Write-Host -ForegroundColor Red "                    ░  ░    ░ ░        ░                  ░      ░  ░   ░     ░        ░  ░          "; 
-Write-Host -ForegroundColor Red "                                                                      ░   "; 
+Write-Host -ForegroundColor Gray "                ██▓     ▒█████    ██████ ▄▄▄█████▓ ███▄ ▄███▓▓█████ ▓█████▄  ██▓ ▄▄▄   ";
+Write-Host -ForegroundColor Gray "                 ▓██▒    ▒██▒  ██▒▒██    ▒ ▓  ██▒ ▓▒▓██▒▀█▀ ██▒▓█   ▀ ▒██▀ ██▌▓██▒▒████▄ ";
+Write-Host -ForegroundColor Gray "                ▒██░    ▒██░  ██▒░ ▓██▄   ▒ ▓██░ ▒░▓██    ▓██░▒███   ░██   █▌▒██▒▒██  ▀█▄ ";
+Write-Host -ForegroundColor Gray "                ▒██░    ▒██   ██░  ▒   ██▒░ ▓██▓ ░ ▒██    ▒██ ▒▓█  ▄ ░▓█▄   ▌░██░░██▄▄▄▄██";
+Write-Host -ForegroundColor Gray "                ░██████▒░ ████▓▒░▒██████▒▒  ▒██▒ ░ ▒██▒   ░██▒░▒████▒░▒████▓ ░██░ ▓█   ▓██▒ ";
+Write-Host -ForegroundColor Gray "                ░ ▒░▓  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░  ▒ ░░   ░ ▒░   ░  ░░░ ▒░ ░ ▒▒▓  ▒ ░▓   ▒▒   ▓▒█░                   "; 
+Write-Host -ForegroundColor Gray "                ░ ░ ▒  ░  ░ ▒ ▒░ ░ ░▒  ░ ░    ░    ░  ░      ░ ░ ░  ░ ░ ▒  ▒  ▒ ░  ▒   ▒▒ ░            "; 
+Write-Host -ForegroundColor Gray "                  ░ ░   ░ ░ ░ ▒  ░  ░  ░    ░      ░      ░      ░    ░ ░  ░  ▒ ░  ░   ▒              "; 
+Write-Host -ForegroundColor Gray "                    ░  ░    ░ ░        ░                  ░      ░  ░   ░     ░        ░  ░          "; 
+Write-Host -ForegroundColor Gray "                                                                      ░   "; 
 Write-Host "";
 Write-Host -ForegroundColor Blue "   Made By ZLostTK (ScreenSharer) For Anxer Comunnity - " -NoNewLine
 Write-Host -ForegroundColor Red "https://discord.gg/XX8JAMZPYt";
